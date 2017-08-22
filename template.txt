@@ -1,0 +1,158 @@
+<meta charset="UTF-8">
+<title>eBay Template by AT Web Designer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="http://atwebdesigner.co.uk/newEbay/standard/up/css/sea.css" id="cssUrl">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!-- LOGO & TITLE -->
+<header>
+<div class="sCont">
+<div id="logo">
+<div class="mTitle">Company Name</div> <!-- Enter Website TITLE Here -->
+<div class="sTitle">Some text</div> <!-- Enter Website subTITLE Here -->
+</div>
+</div>
+</header>
+<!-- ###### ###### -->
+<!-- MENU -->
+<nav>
+
+	<ul>
+		<li><a title="My Items" class="otherItemsLink" href="http://www.ebay.co.uk/sch/napkinshop/m.html?_nkw=&_armrs=1&_ipg=&_from=" target="_blank"><i class="fa fa-home"></i>My Items</a></li>
+		<li><a title="About Us" class="userName" href="http://www.ebay.co.uk/usr/napkinshop" target="_blank"><i class="fa fa-info-circle"></i>About Us</a></li>
+		<li><a title="My Feedbacks" class="myFeedback" href="http://feedback.ebay.co.uk/ws/eBayISAPI.dll?ViewFeedback2&userid=napkinshop" target="_blank"><i class="fa fa-star"></i>Feedback</a></li>
+		<li><a title="Contact" class="contactLink" href="http://contact.ebay.co.uk/ws/eBayISAPI.dll?ReturnUserEmail&amp;requested=napkinshop" target="_blank"><i class="fa fa-envelope"></i>Contact</a></li>
+	</ul>
+
+</nav>
+<!-- ###### ###### -->
+<!-- LEFT COLUMN -->
+<div class="sCont">
+<div class="lTitle">
+<h1>Listing Title</h1>
+</div>
+<div class="l-col">
+<div class="list-img">
+<img src="http://atwebdesigner.co.uk/newEbay/standard/up/img/replace.jpg">
+</div>
+</div>
+<!-- ###### ###### -->
+<!-- RIGHT COLUMN -->
+<div class="r-col">
+<div class="bt">
+
+			<div class="pr-price">
+				<div class="text">Price:</div><div class="price"> £4.99</div>
+			</div>
+
+			<div class="sbt">
+					<a class="contactLink btColor" href="http://contact.ebay.co.uk/ws/eBayISAPI.dll?ReturnUserEmail&amp;requested=napkinshop" target="_blank" style="margin-right:1%;">Ask Question<i class="fa fa-question-circle"></i></a>
+					<a class="shareLink" style="float:right;" href="http://my.ebay.co.uk/ws/eBayISAPI.dll?AcceptSavedSeller&sellerid=napkinshop" target="_blank">Save Seller<i class="fa fa-heart"></i></a>
+			</div>
+</div>
+<div class="ourBest">
+			
+			<div class="oBTrump">
+				<div class="oBTCircle"><img src="http://atwebdesigner.co.uk/newEbay/standard/up/img/done.png"></div>
+				<h4>Description #1</h4>
+				<div class="oBTDesc">Lorem ipsum dolor sit amet adipisicing.</div>
+			</div>
+
+			<div class="oBTrump">
+				<div class="oBTCircle"><img src="http://atwebdesigner.co.uk/newEbay/standard/up/img/done.png"></div>
+				<h4>Description #2</h4>
+				<div class="oBTDesc">Lorem ipsum dolor sit amet adipisicing.</div>
+			</div>
+
+			<div class="oBTrump">
+				<div class="oBTCircle"><img src="http://atwebdesigner.co.uk/newEbay/standard/up/img/done.png"></div>
+				<h4>Description #3</h4>
+				<div class="oBTDesc">Lorem ipsum dolor sit amet adipisicing.</div>
+			</div>
+
+		</div>
+</div>
+</div>
+<!-- ###### ###### -->
+<!-- ITEM DESCRIPTION -->
+<div class="sCont">
+<!-- DESCRIPTION #1 -->
+<div class="desc-fw">
+<div class="desc-fw-title">
+<h1>Product Description</h1>
+</div>
+<div class="desc-fw-cont">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus veritatis minima pariatur, fugiat dolor, id mollitia sunt odio in magnam eius! Expedita assumenda rerum rem, voluptatibus ipsa, nulla perferendis recusandae?</p>
+</div>
+</div>
+<!-- DESCRIPTION #2 -->
+<div class="desc-fw">
+<div class="desc-fw-title">
+<h1>Delivery Information</h1>
+</div>
+<div class="desc-fw-cont">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi reiciendis exercitationem fuga aut, eveniet dolorem itaque repellendus architecto eligendi ea ipsum ratione! Similique perspiciatis ad animi temporibus quaerat, veniam illo.</p>
+</div>
+</div>
+<!-- DESCRIPTION #3 -->
+<div class="desc-fw">
+<div class="desc-fw-title">
+<h1>Returns Information</h1>
+</div>
+<div class="desc-fw-cont">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur optio adipisci rem laboriosam, ratione ad inventore eum eos reiciendis nemo. Aperiam odit modi mollitia nulla numquam. Molestiae eligendi ducimus, ratione?</p>
+</div>
+</div>
+</div>
+<!-- ###### ###### -->
+<!-- FOOTER -->
+
+
+<footer>
+	<div class="footer">
+		<div class="col">
+
+			<h1>About us</h1>
+			<div id="about" class="content">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				<p>In voluptates, ut officia quas voluptatibus nemo, esse maxime.</p>
+			</div>
+
+		</div><div class="col">
+			<h1>Our advantages</h1>
+			<div id="seller" class="content">
+				<ul>
+					<li>Advantage #1</li>
+					<li>Advantage #2</li>
+					<li>Advantage #3</li>
+					<li>Advantage #4</li>
+				</ul>
+			</div>
+		</div><div class="col">
+			<h1>Ebay links</h1>
+			<div id="menu" class="content">
+				<ul>
+					<li><a href="http://www.ebay.co.uk/usr/napkinshop" target="_blank">My ebay</a></li>
+					<li><a href="http://www.ebay.co.uk/sch/napkinshop/m.html?_nkw=&_armrs=1&_ipg=&_from=" target="_blank">Other Items</a></li>
+					<li><a href="http://feedback.ebay.co.uk/ws/eBayISAPI.dll?ViewFeedback2&userid=napkinshop" target="_blank">Feedback</a></li>
+					<li><a href="http://contact.ebay.co.uk/ws/eBayISAPI.dll?ReturnUserEmail&amp;requested=napkinshop" target="_blank">Send message</a></li>
+				</ul>
+			</div>
+		</div><div class="col">
+			<h1>Contact</h1>
+			<div id="contact" class="content">
+				<div class="adres">
+					<p>Address: <span>Street 1/1 XXX XXXX Ciy, Country</span></p>
+				</div>
+				<div class="phone">
+					<p>Phone:<strong> 111 111 1111</strong></p>
+				</div>
+				<div class="email">
+					<p>Email:<strong> email@gmail.com</strong></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<!-- ###### ###### -->
